@@ -40,4 +40,5 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
