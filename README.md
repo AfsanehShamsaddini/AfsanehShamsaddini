@@ -12,7 +12,8 @@
 
 
 <br>  
-<br>  
+<br>
+<hr>
 <br>  
 
 
@@ -30,6 +31,7 @@
 </div>
 
 <br>  
+<hr>
 <br> 
 
 ### 👨‍💻 Programming and Markup Language :
