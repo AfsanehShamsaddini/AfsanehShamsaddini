@@ -3,30 +3,13 @@
 </h1>
 
 
-### 👨🏻‍🦱 About Me 
-
-💎 I am Afsaneh, a highly motivated professional in interdisciplinary fields between computer and natural science areas. 
-<br>  
-
-💎 I am skilled in machine learning (ML) tools like python programming language and its critical packages e.g Pandas, Numpy and also an expert in machine learning algorithms and structured query language (SQL) .
-
-
-<br>  
-<br>
-<hr>
-<br>  
-
-
 ### 📌 My Social
 <br>  
 
 <div align="center">
-    
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/afsaneh-shamsaddini)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/AfsanehShamsaddini)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21097360/a-shamsaddini)
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:shamsaddini.af@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/a_shamsaddini)
+
     
 </div>
 
