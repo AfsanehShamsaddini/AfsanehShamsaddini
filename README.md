@@ -9,13 +9,10 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:shamsaddini.af@gmail.com)
-
-    
+   
 </div>
 
-<br>  
-<hr>
-<br> 
+
 
 ### 👨‍💻 Programming and Markup Language :
 <br>  
