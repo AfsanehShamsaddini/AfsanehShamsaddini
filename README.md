@@ -2,13 +2,16 @@
 <h3 align="center">A python developer from Iran</h3>
 
 - 💬 Ask me about **python**
-- <br>
+ <br>
 
 - 📫 How to reach me **ashamsadini29@gmail.com**
--  <br>
+  <br>
  <br>
 
 <h3 align="left">Connect with me:</h3>
+- 📫 **ashamsadini29@gmail.com**
+  <br>
+ <br>
 <p align="left">
 </p>
 
