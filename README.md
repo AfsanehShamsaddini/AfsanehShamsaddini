@@ -4,12 +4,10 @@
 - 💬 Ask me about **python**
  <br>
 
-- 📫 How to reach me **ashamsadini29@gmail.com**
-  <br>
- <br>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 **ashamsadini29@gmail.com**
+
+- 📫  **ashamsadini29@gmail.com**
   <br>
  <br>
 <p align="left">
