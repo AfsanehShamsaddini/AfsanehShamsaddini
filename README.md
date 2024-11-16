@@ -9,14 +9,16 @@
 
 <br>
 
-- 🤔 I’m currently learning  Python. Check it out if interested.
+- 🤔 I’m currently learning  Machine Learning. Check it out if interested.
 - 📫 How to reach me: ashamsadini29@gmail.com
 
+### 🖥 Skills
 
+- Machine Learning
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sqlite-05122A?style=flat-square&logo=Sqlite&color=353535) ![Bootstrap](https://img.shields.io/badge/-QT-05122A?style=flat-square&logo=QT&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Opencv-05122A?style=flat-square&logo=Opencv&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Css3-05122A?style=flat-square&logo=Css3&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sqlite-05122A?style=flat-square&logo=Sqlite&color=353535) ![Bootstrap](https://img.shields.io/badge/-QT-05122A?style=flat-square&logo=QT&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Opencv-05122A?style=flat-square&logo=Opencv&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Css3-05122A?style=flat-square&logo=Css3&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)[Bootstrap](https://img.shields.io/badge/-pycharm-05122A?style=flat-square&logo=pycharm&color=464345) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=464345)
 
 
 <br> 
