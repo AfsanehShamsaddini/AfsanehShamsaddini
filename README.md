@@ -9,14 +9,16 @@
 
 <br>
 
-- 🤔 I’m currently learning  Machine Learning. Check it out if interested.
-- 📫 How to reach me: ashamsadini29@gmail.com
+## About Me
+I build **reproducible machine learning projects** (data → train → evaluate) with a focus on clean pipelines, solid evaluation, and clear documentation.  
+Currently focusing on **NLP text classification** and **tabular ML**.
 
 ### 🖥 Skills
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
+**Programming** 
+**Machine Learning** 
+**NLP** 
+**Computer Vision**
 
 ### ⚙️ Tech Stack
 
