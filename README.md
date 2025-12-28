@@ -16,8 +16,11 @@ Currently focusing on **NLP text classification** and **tabular ML**.
 ### 🖥 Skills
 
 **Programming** 
-**Machine Learning** 
+
+**Machine Learning**
+
 **NLP** 
+
 **Computer Vision**
 
 ### ⚙️ Tech Stack
