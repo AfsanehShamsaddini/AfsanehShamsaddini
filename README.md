@@ -13,12 +13,16 @@
 I build **reproducible machine learning projects** (data → train → evaluate) with a focus on clean pipelines, solid evaluation, and clear documentation.  
 Currently focusing on **NLP text classification** and **tabular ML**.
 
-### 🖥 Skills
+🧠 Skills
 
-#### **Programming** 
-#### **Machine Learning**
-#### **NLP** 
-#### **Computer Vision**
+💻 Programming 
+
+🤖 Machine Learning 
+
+🗣 NLP 
+
+👁 Computer Vision 
+
 
 ### ⚙️ Tech Stack
 
