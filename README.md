@@ -1,38 +1,78 @@
+<h1 align="center">Hi 👋, I'm Afsaneh Shamsaddini</h1>
 
-# Hi 👋, I'm Afsaneh Shamsaddini 
+<h3 align="center">
+Machine Learning Engineer • NLP Enthusiast • AI Learner
+</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/afsaneh-shamsaddini/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashamsadini29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AfsanehShamsaddini">
+    <img src="https://img.shields.io/github/followers/AfsanehShamsaddini?label=Follow&style=social"/>
+  </a>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfsanehShamsaddini%2FAfsanehShamsaddini&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afsaneh-shamsaddini/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashamsadini29@gmail.com)
-[![Github](https://img.shields.io/github/followers/AfsanehShamsaddini?label=Follow&style=social)](https://github.com/AfsanehShamsaddini)
+---
 
-<br>
+## 👩‍💻 About Me
 
-## About Me
-I build **reproducible machine learning projects** (data → train → evaluate) with a focus on clean pipelines, solid evaluation, and clear documentation.  
-Currently focusing on **NLP text classification** and **tabular ML**.
+I enjoy building **reproducible machine learning projects** from data collection and preprocessing to model training and evaluation.
 
-🧠 Skills
+My main interests are **Natural Language Processing (NLP)** and **Machine Learning**, with a strong focus on writing clean code, creating reliable pipelines, and documenting experiments clearly.
 
-💻 Programming 
+Currently exploring:
 
-🤖 Machine Learning 
+* 🧠 NLP & Text Classification
+* 🤖 Machine Learning
+* 📊 Data Analysis
+* 👁️ Computer Vision
+* 🚀 Model Development & Evaluation
 
-🗣 NLP 
+---
 
-👁 Computer Vision 
+## ⚙️ Tech Stack
 
+### Languages & Databases
 
-### ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square\&logo=Python\&color=353535)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square\&logo=MySQL\&color=353535)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square\&logo=SQLite\&color=353535)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square\&logo=JavaScript\&color=353535)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square\&logo=HTML5\&color=353535)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square\&logo=CSS3\&color=353535)
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sqlite-05122A?style=flat-square&logo=Sqlite&color=353535) ![Bootstrap](https://img.shields.io/badge/-QT-05122A?style=flat-square&logo=QT&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Opencv-05122A?style=flat-square&logo=Opencv&color=353535)  ![Bootstrap](https://img.shields.io/badge/-pycharm-05122A?style=flat-square&logo=pycharm&color=464345) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=464345) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Css3-05122A?style=flat-square&logo=Css3&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535)
+### Machine Learning & Data Science
 
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat-square\&logo=scikitlearn\&color=353535)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square\&logo=TensorFlow\&color=353535)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square\&logo=PyTorch\&color=353535)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square\&logo=Pandas\&color=353535)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square\&logo=NumPy\&color=353535)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square\&logo=Matplotlib\&color=353535)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat-square\&logo=OpenCV\&color=353535)
 
-<br> 
+### Tools & Frameworks
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanehShamsaddini&show_icons=true&locale=en&layout=compact" alt="AfsanehShamsaddini" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AfsanehShamsaddini&" alt="AfsanehShamsaddini" />
-</div>
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square\&logo=Flask\&color=464345)
+![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat-square\&logo=Qt\&color=353535)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat-square\&logo=visualstudiocode\&color=353535)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square\&logo=pycharm\&color=464345)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanehShamsaddini&show_icons=true&locale=en&layout=compact" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AfsanehShamsaddini" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfsanehShamsaddini%2FAfsanehShamsaddini&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views&edge_flat=false"/>
+</p>
