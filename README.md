@@ -67,12 +67,9 @@ Currently exploring:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanehShamsaddini&show_icons=true&locale=en&layout=compact" />
+  
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AfsanehShamsaddini" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfsanehShamsaddini%2FAfsanehShamsaddini&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views&edge_flat=false"/>
-</p>
